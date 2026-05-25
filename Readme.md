@@ -18,6 +18,21 @@ Outside of corporate fintech architecture, I design and ship independent B2B/B2C
 - 🛠️ Currently optimizing custom LLM runtime environments and pipeline automation
 - 🧠 Deeply interested in cost-effective/open source AI tooling orchestration and multi-agent workflows
 
+## Currently Exploring:
+
+- LLM optimizations through token, context, skills management
+- Local LLM options
+- Proxy for LLM for uninterrupted agent use (e.g. 9router)  
+- Automation through Hermes Agent
+  - Agent Swarms
+  - Kanban with agents
+  - End to end project delegation and deployment
+  - CI/CD for existing projects with consistent context+memory
+- Claude Code Auotmations
+- Connecting n8n with AI tools, webhooks and MCPs
+- Configuring MCPs
+- Using Zapier MCPs 
+
 ---
 
 ### Tech Stack & Tooling
