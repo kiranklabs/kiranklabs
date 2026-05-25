@@ -18,7 +18,7 @@ Outside of corporate fintech architecture, I design and ship independent B2B/B2C
 - 🛠️ Currently optimizing custom LLM runtime environments and pipeline automation
 - 🧠 Deeply interested in cost-effective/open source AI tooling orchestration and multi-agent workflows
 
-## Currently Exploring:
+# Currently Exploring:
 
 - LLM optimizations through token, context, skills management
 - Local LLM options
