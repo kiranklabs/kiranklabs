@@ -4,7 +4,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/kirankhutal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -21,8 +20,8 @@ Outside of corporate fintech architecture, I design and ship independent B2B/B2C
 ### Currently Exploring:
 
 - LLM optimizations through token, context, skills management
-- Local LLM options
-- Proxy for LLM for uninterrupted agent use (e.g. 9router)  
+- Local LLM orchestration
+- Proxy LLM routers for uninterrupted API use (e.g. 9router)  
 - Automation through Hermes Agent
   - Agent Swarms
   - Kanban with agents
@@ -40,7 +39,7 @@ Outside of corporate fintech architecture, I design and ship independent B2B/B2C
 I prioritize high-leverage tools that fast-track ideas into stable, functional products.
 
 ```yaml
-AI & Automation:  [n8n, OpenRouter, Claude Code, Cursor, LangChain]
+AI & Automation:  [Hermes Agent, Claude Code, n8n, OpenRouter, Cursor, LangChain]
 Fintech & Ops:    [Digital Banking APIs, Core Tech Scale, ISO20022/Payments Architecture]
 Development:      [Python, TypeScript, Node.js, Git, Shell Scripting]
 Environments:     [Local LLMs, Desktop/Mobile AI Environments, Docker]
